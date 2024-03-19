@@ -41,3 +41,4 @@ melong
 2. 원격저장소
 3. 흐흐흐
 4. push
+5. pull
