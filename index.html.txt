@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 index 본문 추가
 index 본문 추가
 index 본문 추가
@@ -5,3 +6,5 @@ index 본문 추가
 index 본문 추가
 index 본문 추가
 index 본문 추가
+=======
+>>>>>>> parent of 8b111e9 (인덱스본문추가)
