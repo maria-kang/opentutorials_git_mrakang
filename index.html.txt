@@ -42,3 +42,4 @@ melong
 3. 흐흐흐
 4. push
 5. pull
+6. push.egoing
