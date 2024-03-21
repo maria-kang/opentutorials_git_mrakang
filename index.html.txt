@@ -1,4 +1,5 @@
 Git 수업
+sync.egoing add
 index 본문 추가
 
 -일상적인 작업
