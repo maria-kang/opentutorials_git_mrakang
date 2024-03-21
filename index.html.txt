@@ -43,3 +43,4 @@ melong
 4. push
 5. pull
 6. push.egoing
+6. push.egoing add
