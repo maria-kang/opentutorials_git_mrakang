@@ -45,3 +45,4 @@ melong
 6. push.egoing
 6. push.egoing add
 7. pull add leeche
+8. add confick leeche
