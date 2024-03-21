@@ -45,3 +45,4 @@ melong
 5. pull
 6. push.egoing
 6. push.egoing add
+7. pull add leeche
